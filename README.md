@@ -7,7 +7,7 @@ If you used the OasisSimp datasets in your work, please consider citing our LREC
 
 ```bibtex
 @inproceedings{liu-etal-2026-oasissimp,
-  title = {OasisSimp: An Open-source Asian-English Sentence Simplification Dataset},
+  title = {{OasisSimp: An Open-source Asian-English Sentence Simplification Dataset}},
   author = {Liu, Hannah and Tian, Muxin and Ali, Iqra and Gao, Haonan and We, Qiaoyiwen and Yang, Blair and Thayasivam, Uthayasanker and Lee, En-Shiun Annie and Nakwijit, Pakawat and Ranathunga, Surangika and Shekhar, Ravi},
   booktitle = {Proceedings of the Fifteenth biennial Language Resources and Evaluation Conference (LREC 2026)},
   month = {May},
